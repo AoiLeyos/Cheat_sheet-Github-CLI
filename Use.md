@@ -9,6 +9,10 @@ Enter <code>gh auth login</code> and follow the prompts to log in using your Git
 ```
 gh auth login <flag>
 ```
-  Options  |  effect 
-  ---| ---
-```
+
+
+
+
+  Options  |  Description
+ ---| ---
+  ```--hostname ```  | to connect directly to the host and 
